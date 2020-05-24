@@ -1,6 +1,6 @@
 Platformy e-learning: Strefakursow.pl, Udemy.com – Selenium z użyciem języka programowania Python - ćwiczenia.
 
-1.Kurs Python - zaawansowany. Strefakursow.pl.
+1. Kurs Python - zaawansowany. Strefakursow.pl.
 
 Instalujemy framework Selenium poprzez wpisanie polecenia PIP INSTALL SELENIUM w Windows PowerShell. 
 Używamy Selenium w przeglądarce Firefox, aby tego dokonać musimy zainstalować sterownik do przeglądarki ze strony: https://selenium-python.readthedocs.io/. 
